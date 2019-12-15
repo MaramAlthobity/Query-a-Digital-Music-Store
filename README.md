@@ -1,4 +1,5 @@
 # Query-the-Chinook-Database
+This lab related to Data Analysis Track 1 Million Arab Coders Initiative from Udacity.
 ## Q1 
 The Chinook database contains all invoices from the beginning of 2009 till 
 the end of 2013. The employees at Chinook store are interested in seeing 
