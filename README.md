@@ -19,3 +19,5 @@ The Chinook team would like to throw a promotional Music Festival for their top
 10 cutomers who have spent the most in a single invoice. 
 Write a query that returns the first name, last name, and invoice total for 
 the top 10 invoices ordered by invoice total descending.
+## This is the ERD of the system
+![1MAC](https://user-images.githubusercontent.com/56017399/70856482-ff26bd00-1eee-11ea-8e71-69c9ad7e7ccf.png)
