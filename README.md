@@ -1,5 +1,5 @@
 # Query a Digital Music Store
-This lab related to Data Analysis Track 1 Million Arab Coders Initiative from Udacity.
+This lab related to **Data Analysis Track 1 Million Arab Coders Initiative** from Udacity.
 ## Name of Database
 Chinook-Database
 ## Intersting question about yhe database
